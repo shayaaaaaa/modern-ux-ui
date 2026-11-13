@@ -1,4 +1,4 @@
-import { GitHub, Twitter, LinkedIn, Mail } from "lucide-react";
+import { GithubIcon, Twitter, Linkedin, Mail } from "lucide-react";
 
 const footerLinks = {
   Product: ["Features", "Pricing", "Security", "Roadmap", "Changelog"],
@@ -48,7 +48,7 @@ export default function Footer() {
                 href="#"
                 className="p-2 sm:p-2.5 bg-slate-800 rounded-lg hover:bg-slate-700 transition-colors duration-200"
               >
-                <Github className="w-5 h-5 sm:w-5 sm:h-5" />
+                <GithubIcon className="w-5 h-5 sm:w-5 sm:h-5" />
               </a>
               <a
                 href="#"
