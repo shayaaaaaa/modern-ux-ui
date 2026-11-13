@@ -1,4 +1,5 @@
 import { GithubIcon, Twitter, Linkedin, Mail } from "lucide-react";
+import { useState } from "react";
 
 const footerLinks = {
   Product: ["Features", "Pricing", "Security", "Roadmap", "Changelog"],
