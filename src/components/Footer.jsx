@@ -1,4 +1,4 @@
-import { GitHub, Twitter, Linkedin, Mail } from "lucide-react";
+import { GitHub, Twitter, LinkedIn, Mail } from "lucide-react";
 
 const footerLinks = {
   Product: ["Features", "Pricing", "Security", "Roadmap", "Changelog"],
